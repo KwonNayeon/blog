@@ -1,0 +1,88 @@
+baseURL = 'https://kwonnayeon.github.io/'
+languageCode = 'en-us'
+title = 'Nayeon Kwon'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+googleAnalytics = "G-MDEYTQCSVX"
+
+[params]
+# Meta description
+description = "A blog by Nayeon, a passionate Data Scientist exploring data-driven solutions and insights."
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hi, I’m Nayeon!'
+homeIntroContent = """
+I'm a Data Scientist specializing in causal inference and machine learning, with a foundation in statistics and business. Aspiring to join Canada's tech landscape while sharing my data science journey and projects here. 
+
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Latest Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 5  # Adjust based on how many posts you want to show per page
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/kwonnayeon/"  # Update with your LinkedIn profile
+
+[[params.social]]
+name = "medium"
+url = "https://medium.com/@nayeonkwonds"  # Update with your Medium profile
+
+[[params.social]]
+name = "github"
+url = "https://github.com/KwonNayeon"  # Update with your GitHub profile
+
+[[params.social]]
+name = "cv"
+url = "https://drive.google.com/file/d/1O7jQq29fKi9X-IpVFS-K18K3v-bL0svz/view?usp=sharing"  # Link to your CV
+
+# Main menu pages
+[[params.menu]]
+name = "Home"
+url = "/"
+
+[[params.menu]]
+name = "About"
+url = "/about-me/"
+
+[[params.menu]]
+name = "Portfolio"
+url = "/my-project/"
+
+[[params.menu]]
+name = "Posts"
+url = "/posts/"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "nayeon/repo"  # Update with your repo
+repoid = "repoId"  # Replace with actual repo ID
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
+

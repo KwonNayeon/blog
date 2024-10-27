@@ -1,0 +1,7 @@
+[submodule "thedatascienceblog/themes/typo"]
+	path = thedatascienceblog/themes/typo
+	url = https://github.com/tomfran/typo.git
+[submodule "thedatascienceblog/public"]
+	path = thedatascienceblog/public
+	url = https://github.com/KwonNayeon/KwonNayeon.github.io.git
+	branch = main
