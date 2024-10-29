@@ -21,7 +21,9 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi, I’m Nayeon!'
 homeIntroContent = """
-I'm a Data Scientist specializing in causal inference and machine learning, with a foundation in statistics and business. Aspiring to join Canada's tech landscape while sharing my data science journey and projects here. 
+I am a data scientist with 2+ years of academic experience in Statistics and 1+ year as a Statistical Analyst at Statistics Korea. I aim to make business impact through data-driven decisions while collaborating with like-minded people. With expertise in causal inference and machine learning, I specialize in transforming complex data into actionable insights.
+
+Currently exploring cloud-based ML solutions, I share my learning journey and technical insights through this blog.
 
 """
 
@@ -58,10 +60,6 @@ url = "https://drive.google.com/file/d/1O7jQq29fKi9X-IpVFS-K18K3v-bL0svz/view?us
 [[params.menu]]
 name = "Home"
 url = "/"
-
-[[params.menu]]
-name = "About"
-url = "/about-me/"
 
 [[params.menu]]
 name = "Portfolio"
