@@ -1,6 +1,6 @@
 baseURL = 'https://kwonnayeon.github.io/'
 languageCode = 'en-us'
-title = 'Nayeon Kwon'
+title = 'Data Journal'
 theme = 'typo'
 
 [taxonomies]
