@@ -21,7 +21,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi, I’m Nayeon!'
 homeIntroContent = """
-I am a data scientist with 2+ years of academic experience in Statistics and 1+ year as a Statistical Analyst at Statistics Korea. I aim to make business impact through data-driven decisions while collaborating with like-minded people. With expertise in causal inference and machine learning, I specialize in transforming complex data into actionable insights.
+I am a data scientist with 2+ years of academic experience in Statistics and 1+ year as a Statistical Analyst at Statistics Korea. I aim to impact business through data-driven decisions while collaborating with like-minded people. With expertise in causal inference and machine learning, I specialize in transforming complex data into actionable insights.
 
 Currently exploring cloud-based ML solutions, I share my learning journey and technical insights through this blog.
 
