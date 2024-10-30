@@ -6,6 +6,7 @@ description = 'A comprehensive guide to creating and optimizing word clouds usin
 toc = false
 readTime = true
 autonumber = false
+math = false
 tags = ["data-analysis", "visualization", "python", "word-cloud", "F1"]
 showTags = false
 hideBackToTop = false
