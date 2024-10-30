@@ -72,7 +72,7 @@ url = "/posts/"
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
-style = 'catppuccin-latte'
+style = 'base16-snazzy'
 
 # Giscus comments
 [params.giscus]
