@@ -11,7 +11,7 @@ googleAnalytics = "G-MDEYTQCSVX"
 
 [params]
 # Meta description
-description = "A blog by Nayeon, a passionate Data Scientist exploring data-driven solutions and insights."
+description = "A blog by Nayeon, a Data Scientist exploring data-driven solutions and insights."
 
 # Appearance settings
 theme = 'auto'
