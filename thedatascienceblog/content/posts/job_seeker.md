@@ -1,11 +1,13 @@
 +++
 title = 'How to Reduce an Insecurity Mindset as a Job Seeker'
-date = '2024-10-27'
+date = '2024-09-21'
 summary = 'A personal reflection on navigating insecurity during job searching, sharing insights and strategies for building confidence and maintaining a positive mindset.'
 description = 'This post explores the emotional challenges of job searching and offers practical advice on managing insecurity. It emphasizes the importance of establishing routines, setting personal goals, and staying connected with a supportive community.'
 toc = true
 readTime = true
 autonumber = false
+hideBackToTop = false
+hidePagination = true
 +++
 
 ### Introduction
