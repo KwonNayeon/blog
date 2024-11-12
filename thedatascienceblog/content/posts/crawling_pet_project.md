@@ -1,7 +1,7 @@
 +++
 title = 'Web Scraping and Text Analysis of Travel Trends on Blogs'
 date = '2024-11-12'
-summary = "A data-driven exploration of Taiwan travel trends using Naver blog analysis and web scraping"
+summary = 'A data-driven exploration of Taiwan travel trends using Naver blog analysis and web scraping.'
 description = 'A comprehensive analysis of Korean travel trends in Taiwan through web scraping, text preprocessing, and analysis of Naver blog posts'
 toc = false
 readTime = true
@@ -58,13 +58,13 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# Chrome options setup
+## Chrome options setup
 chrome_options = Options()
 chrome_options.add_argument('--headless')
 chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument('--disable-dev-shm-usage')
 
-# Initialize webdriver
+## Initialize webdriver
 driver = webdriver.Chrome(options=chrome_options)
 ```
 
@@ -87,18 +87,18 @@ finally:
 
 I applied several text preprocessing techniques, including HTML tag removal, special character cleaning, case normalization, tokenization, and morphological analysis. Through this process, I learned that selecting appropriate stopwords is crucial regardless of language.
 
-Even after using [stopwords-ko.txt](https://gist.github.com/spikeekips/40eea22ef4a89f629abd87eed535ac6a) from spikeekips' Gist on GitHub, the crawled data contained unexpected technical terms like 'pzp', 'pc', 'hdp', and 'hd' that required additional cleaning. This experience reinforced that thorough preprocessing is essential for accurate analysis.
+Even after using [stopwords-ko.txt](https://gist.github.com/spikeekips/40eea22ef4a89f629abd87eed535ac6a) from spikeekips' Gist on GitHub, the crawled data contained unexpected technical terms like *'pzp', 'pc', 'hdp',* and *'hd'* that required additional cleaning. This experience reinforced that thorough preprocessing is essential for accurate analysis.
 
 ### Text Analysis Results
 
 #### Keyword Analysis
-The most frequently appearing terms included Taiwan, Taipei, travel, tour, night market, hotel, photo, and people.
+The most frequently appearing terms included *Taiwan, Taipei, travel, tour, night market, hotel, photo,* and *people.*
 
 #### Sentiment Distribution
 Most posts exhibited positive sentiment, focusing on travel experiences and recommendations. Representative examples included:
-- Neutral: "4 nights and 5 days in Taiwan, traveling around and eating nonstop…"
-- Positive: "A 3-day tour of Taiwan, a free tour around Taipei packed with experiences…"
-- Positive: "Visiting the Taipei Fun Pass, with a summary of travel expenses and photos…"
+- Neutral: *"4 nights and 5 days in Taiwan, traveling around and eating nonstop…"*
+- Positive: *"A 3-day tour of Taiwan, a free tour around Taipei packed with experiences…"*
+- Positive: *"Visiting the Taipei Fun Pass, with a summary of travel expenses and photos…"*
 
 #### Topic Categories
 The content fell into five main categories:
@@ -111,14 +111,14 @@ The content fell into five main categories:
 
 #### Word Cloud
 
-It showed similar keywords to those in other analyses, such as Taiwan, travel, Taipei, hotel, night markets, tours, airport, and photos.
+It showed similar keywords to those in other analyses, such as *Taiwan, travel, Taipei, hotel, night markets, tours, airport,* and *photos.*
 ![Taiwan Travel Word Cloud](/images/wordcloud_taiwan.png)
 
 ## Key Findings
 
-From a data analysis perspective, the results closely matched my expectations. When searching for travel information in Korean, I found a strong emphasis on food, travel tips, must-bring items, and detailed itinerary suggestions. This aligns with the types of content I anticipated encountering.
+**From a data analysis perspective,** the results closely matched my expectations. When searching for travel information in Korean, I found a strong emphasis on food, travel tips, must-bring items, and detailed itinerary suggestions. This aligns with the types of content I anticipated encountering.
 
-From a technical perspective, this project reinforced that text preprocessing is critical for any data analysis. While I performed basic text cleaning for this pet project, I recognized that for larger-scale or corporate projects aimed at deriving meaningful customer insights, comprehensive and accurate data cleaning is a necessity.
+**From a technical perspective,** this project reinforced that text preprocessing is critical for any data analysis. While I performed basic text cleaning for this pet project, I recognized that for larger-scale or corporate projects aimed at deriving meaningful customer insights, comprehensive and accurate data cleaning is a necessity.
 
 ## Future Directions
 
@@ -129,6 +129,6 @@ While I didn't delve into explaining the code in detail in this post, you can ch
 ## References
 
 - [Naver Developer API](https://developers.naver.com/main/) for web scraping
-- [Python-based Naver blog crawling tutorial](https://developer-woo.tistory.com/60) by dev-woo
+- *[Python-based Naver blog crawling tutorial](https://developer-woo.tistory.com/60)* by dev-woo
 - [stopwords-ko.txt](https://gist.github.com/spikeekips/40eea22ef4a89f629abd87eed535ac6a) from spikeekips' Gist on GitHub
-- [합법적으로 '웹 크롤링'하는 방법 (上)](https://brunch.co.kr/@8d1b089f514b4d5/33) by 삼더하기일
+- *[합법적으로 '웹 크롤링'하는 방법 (上)](https://brunch.co.kr/@8d1b089f514b4d5/33)* by 삼더하기일

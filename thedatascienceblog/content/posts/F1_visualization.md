@@ -1,7 +1,7 @@
 +++
 title = 'Deep Dive into Word Cloud Creation'
 date = '2024-08-21'
-summary = "Let's create word clouds with Python: A step-by-step deep dive into data visualization"
+summary = "A step-by-step tutorial on creating visually compelling word clouds using Python."
 description = 'A comprehensive guide to creating and optimizing word clouds using F1 trending tweets data'
 toc = false
 readTime = true

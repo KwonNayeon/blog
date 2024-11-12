@@ -1,7 +1,7 @@
 +++
 date = '2024-11-09T15:46:50+09:00'
 title = 'Earning Two AWS Certificates in One Month: A Personal Journey'
-summary = 'Shares my experience earning two AWS practitioner certifications in a month, emphasizing learning strategies and practical takeaways.'
+summary = 'Shares my experience earning two AWS practitioner certifications in a month.'
 description = 'This post details my journey of earning two AWS practitioner certifications within a month, driven by career aspirations and the need for globally recognized credentials. It highlights key learning strategies, useful resources, and the practical value of integrating cloud expertise into data science projects.'
 toc = false
 readTime = true

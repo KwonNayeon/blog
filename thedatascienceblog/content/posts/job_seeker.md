@@ -1,7 +1,7 @@
 +++
 title = 'How to Reduce an Insecurity Mindset as a Job Seeker'
 date = '2024-09-26'
-summary = 'A personal reflection on navigating insecurity during job searching, sharing insights and strategies for building confidence and maintaining a positive mindset.'
+summary = 'A personal reflection on navigating insecurity during job searching, with insights and strategies.'
 description = 'This post explores the emotional challenges of job searching and offers practical advice on managing insecurity. It emphasizes the importance of establishing routines, setting personal goals, and staying connected with a supportive community.'
 toc = false
 readTime = true
@@ -10,13 +10,13 @@ hideBackToTop = false
 hidePagination = true
 +++
 
-### Introduction
+## Introduction
 
 Job searching can be emotionally challenging, often leading to self-doubt. I know this all too well because I am a job seeker, seeking new opportunities in Canada, as a person with all my educational and work experience in Korea.
 
 It has been almost three months since I started seeking a job, so I want to share the insights I've gained from this journey. I'll discuss how to focus on building healthy habits and shifting your mindset, and how to navigate this journey with more confidence. I want you to know, if you are a job seeker, that you are not alone!
 
-### Focus on the Process, Not Just the Goal
+## Focus on the Process, Not Just the Goal
 
 Focusing on the process means purely enjoying learning and improving your skills instead of fixating solely on securing a job. I know this is not easy, especially if you have not voluntarily left your previous company, like in the case of a layoff, or if your contract has simply ended, which is my situation.
 
@@ -26,13 +26,13 @@ Even though I entered my dream university, I wasn't really happy about that. Whe
 
 Since then, I've trained myself to focus on enjoying the process, not achieving the goal. That viewpoint changed a lot. I wasn't feeling insecure, at least less than before, and wasn't disappointed about unexpected results because I did my best, enjoyed the learning journey, and knew I could do better next time.
 
-### Set Personal Goals
+## Set Personal Goals
 
 I love data science. I want to help people make better decisions through data-driven approaches. However, I don't want my career goals to consume my entire life. So, I set a personal goal alongside my professional one of landing a job.
 
 My personal goal is to be healthier. Since last year, because of very personal reasons, I haven't cared about maintaining a healthy, balanced life, and I gained a lot of weight. So I set a personal goal to lose some weight by the end of this year. Personally, this is my way to reduce uncertainty. You know, even though I work hard, I might still be a job seeker at the year's end. But if I have a personal goal and achieve that, I can feel like at least I accomplished something!
 
-### Establish a Routine
+## Establish a Routine
 
 Having a structured daily routine gives you a sense of control and direction. Sticking to a schedule can improve your productivity and reduce feelings of uncertainty. Here's a rough routine I follow on weekdays. I focus on studying before noon, which is the most productive time for me. In the afternoons, I typically apply for jobs, do some writing, or work on personal projects.
 
@@ -45,7 +45,7 @@ Here's my typical daily schedule (weekdays):
 
 Also, I want to go to bed each night without regrets, knowing I've done my best in my job search. This is another way for me to maintain confidence - knowing that I'm doing everything I can.
 
-### Stay Connected
+## Stay Connected
 
 Staying connected with others has been crucial throughout my job-searching journey. I knew that if I isolated myself and lost confidence, both my situation and mental health would deteriorate. My family and friends never judged me based on where I was in life; they genuinely liked me for who I am. Additionally, networking can lead to new opportunities, so I sent out cold messages and connection requests through LinkedIn, which was my primary way of connecting with data scientists in Canada.
 
@@ -55,7 +55,7 @@ Here's how I stay connected with people:
 - **Study group**: Since starting this journey, I've met every Saturday with like-minded individuals, especially women in STEM. We share tips on landing jobs abroad, boost each other's confidence, and exchange strategies based on our career experiences. This community has been invaluable in helping me realize I'm not alone.
 - **Family and friends**: No words needed - I'm incredibly grateful to have such supportive people around me.
 
-### Practice Daily Affirmations and Journaling
+## Practice Daily Affirmations and Journaling
 
 Incorporating daily affirmations, gratitude journaling, and emotional journaling into your routine can be powerful tools for shifting your mindset and reducing insecurity during your job search. These practices not only foster positivity but also reinforce your inner strength.
 
@@ -65,7 +65,7 @@ Daily affirmations and gratitude journaling, on the other hand, help me stay pos
 
 I encourage you to try these practices and see how they work for you. You might be surprised at the patterns you discover or the boost in positivity you experience. Remember, the goal is to find what works best for you in managing your emotions and maintaining a positive outlook during your job search journey.
 
-### Exercise Regularly
+## Exercise Regularly
 
 Research has shown that regular exercise significantly reduces stress and anxiety, which are common during job searching, by boosting mood and self-confidence, as highlighted by the research of Anderson and Shivakumar (2013). This makes exercise a powerful tool in managing the emotional challenges of job seeking.
 
@@ -77,7 +77,7 @@ I also do home workouts. If you feel you don't have much time or get bored worki
 
 Remember, the goal is to find a form of exercise that you enjoy and can stick to consistently. Whether it's yoga, running, dancing, or any other activity, regular exercise can be a powerful ally in your job search journey, helping you maintain a positive mindset and tackle challenges with renewed energy.
 
-### Find Ways to Contribute
+## Find Ways to Contribute
 
 Giving back to my community and helping others matters. It's not only a way to create positive impacts on society but also a means to boost my self-worth. However, as a job seeker, I initially wondered how I could contribute. Here's what I discovered.
 
@@ -96,11 +96,11 @@ While this contribution might not directly reduce insecurity during the job sear
 
 Through this experience, I've learned that contributing doesn't always have to involve grand gestures. Sometimes, sharing your journey, skills, and knowledge can be just as impactful—both for others and for your own sense of worth and confidence during the job search.
 
-### Conclusion
+## Conclusion
 
 The idea to post this comes from my own insecurity. I want people seeking jobs like me, who feel the same way, to know that they are not alone. I hope to share the things I have tried to reduce insecurity, feel better, and stay positive. I hope these tips have helped you, even if only a little.
 
-### Sources
+## Sources
 
 - Anderson, E., & Shivakumar, G. (2013). Effects of Exercise and Physical Activity on Anxiety. *Frontiers in Psychiatry, 4*, 27.
 - Steele, C. M. (1988). The psychology of self-affirmation: Sustaining the integrity of the self. *Advances in Experimental Social Psychology, 21*, 261–302.
