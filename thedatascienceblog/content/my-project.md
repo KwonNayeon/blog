@@ -10,10 +10,18 @@ hidePagination = true
   Led research using causal inference to quantify urban green spaces' impact on children's well-being, delivering actionable insights for policymakers.  
   [Visit Publication](https://www.kjas.or.kr/journal/view.html?doi=10.5351/KJAS.2023.36.1.063) | [GitHub Repository](https://github.com/KwonNayeon/urban-parks-childrens-happiness)
 
-### Data Science Competition Project
+### Projects
+- **Modern Spam Detection (Current Project)**  
+  Developing an advanced spam detection system that addresses the evolving nature of unwanted communications. Going beyond traditional binary classification to tackle sophisticated spam tactics operating in "gray areas" that challenge conventional filters.  
+  [View Project](https://github.com/KwonNayeon/data-science-consulting-solutions)
+
 - **Predicting Small Business Closures Using Machine Learning**  
   Built and compared advanced ML models (CatBoost, RandomForest, BART) for SME closure prediction, achieving exceptional performance (F1: 0.992, Accuracy: 0.987).  
   [View Project](https://github.com/KwonNayeon/numble)
+
+- **Travel Trends Analysis through Web Scraping**  
+  Built a Python-based data collection system analyzing travel blog posts to identify trending destinations and traveler preferences. Implemented automated scraping, NLP processing, and data visualization for insights.  
+  [View Project](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed)
 
 ### Statistics Korea (Statistical Intern & Analyst)
 - **2023 Population and Housing Census Press Release**  
