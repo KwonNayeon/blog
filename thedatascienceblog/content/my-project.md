@@ -21,7 +21,7 @@ hidePagination = true
 
 - **Travel Trends Analysis through Web Scraping**  
   Built a Python-based data collection system analyzing travel blog posts to identify trending destinations and traveler preferences. Implemented automated scraping, NLP processing, and data visualization for insights.  
-  [View Project](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed)
+  [Visit Medium Post](https://nayeonkwonds.medium.com/web-scraping-and-text-analysis-of-travel-trends-on-blogs-e83a453d34ed) | [GitHub Repository](https://github.com/KwonNayeon/medium-post-projects)
 
 ### Statistics Korea (Statistical Intern & Analyst)
 - **2023 Population and Housing Census Press Release**  
