@@ -11,9 +11,9 @@ hidePagination = true
   [Visit Publication](https://www.kjas.or.kr/journal/view.html?doi=10.5351/KJAS.2023.36.1.063) | [GitHub Repository](https://github.com/KwonNayeon/urban-parks-childrens-happiness)
 
 ### Projects
-- **Modern Spam Detection (Current Project)**  
-  Developing an advanced spam detection system that addresses the evolving nature of unwanted communications. Going beyond traditional binary classification to tackle sophisticated spam tactics operating in "gray areas" that challenge conventional filters.  
-  [View Project](https://github.com/KwonNayeon/data-science-consulting-solutions)
+- **SMS Spam Detection System (Current Project)**  
+  Building a spam detection system to classify unwanted communications more effectively. Currently focusing on developing robust text classification models to handle subtle and ambiguous spam cases.  
+  [View Project](https://github.com/KwonNayeon/sms-spam-classifier)
 
 - **Predicting Small Business Closures Using Machine Learning**  
   Built and compared advanced ML models (CatBoost, RandomForest, BART) for SME closure prediction, achieving exceptional performance (F1: 0.992, Accuracy: 0.987).  
