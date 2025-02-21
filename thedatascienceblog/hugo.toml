@@ -28,11 +28,11 @@ Currently exploring cloud-based ML solutions, I share my learning journey and te
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Latest Posts'
-homeCollection = 'posts'
+# homeCollectionTitle = 'Latest Posts'
+# homeCollection = 'posts'
 
 # Lists parameters
-paginationSize = 5  # Adjust based on how many posts you want to show per page
+paginationSize = 100  # Adjust based on how many posts you want to show per page
 listSummaries = true
 listDateFormat = '2 Jan 2006'
 
@@ -54,7 +54,7 @@ url = "https://github.com/KwonNayeon"  # Update with your GitHub profile
 
 [[params.social]]
 name = "cv"
-url = "https://drive.google.com/file/d/1O7jQq29fKi9X-IpVFS-K18K3v-bL0svz/view?usp=sharing"  # Link to your CV
+url = "https://drive.google.com/file/d/1T2JfO9eWR1Tck884DW7jbxwjPQRjrk1E/view?usp=sharing"  # Link to your CV
 
 # Main menu pages
 [[params.menu]]
