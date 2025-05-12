@@ -12,7 +12,7 @@ hidePagination = true
 
 ### Projects
 - **NoteNest: AI Summarizer for Neurodiverse Learners**
-  Built an iPad app using Python, Langchain, and OpenAI API to generate concise 3-line summaries with visual aids from complex documents. Led RAG model development focused on making information accessible for users with cognitive disabilities and reading challenges.
+  Built an iPad application using Python, Langchain, and OpenAI API to generate concise 3-line summaries with visual aids from complex documents. Led RAG model development focused on making information accessible for users with cognitive disabilities and reading challenges.
   [View Project](https://github.com/KwonNayeon/noteRAG)
 
 
