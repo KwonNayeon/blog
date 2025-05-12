@@ -11,7 +11,12 @@ hidePagination = true
   [Visit Publication](https://www.kjas.or.kr/journal/view.html?doi=10.5351/KJAS.2023.36.1.063) | [GitHub Repository](https://github.com/KwonNayeon/urban-parks-childrens-happiness)
 
 ### Projects
-- **SMS Spam Detection System (Current Project)**  
+- **NoteNest: AI Summarizer for Neurodiverse Learners**
+  Built an iPad app using Python, Langchain, and OpenAI API to generate concise 3-line summaries with visual aids from complex documents. Led RAG model development focused on making information accessible for users with cognitive disabilities and reading challenges.
+  [View Project](https://github.com/KwonNayeon/noteRAG)
+
+
+- **SMS Spam Detection System**  
   Building a spam detection system to classify unwanted communications more effectively. Currently focusing on developing robust text classification models to handle subtle and ambiguous spam cases.  
   [View Project](https://github.com/KwonNayeon/sms-spam-classifier)
 
